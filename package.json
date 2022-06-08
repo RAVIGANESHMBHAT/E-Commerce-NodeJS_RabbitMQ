@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce-nodejs_rabbitmq",
+  "version": "1.0.0",
+  "description": "A NodeJS backend for the E-Commerce application which is also integrated with RabbitMQ for messaging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAVIGANESHMBHAT/E-Commerce-NodeJS_RabbitMQ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAVIGANESHMBHAT/E-Commerce-NodeJS_RabbitMQ/issues"
+  },
+  "homepage": "https://github.com/RAVIGANESHMBHAT/E-Commerce-NodeJS_RabbitMQ#readme"
+}
